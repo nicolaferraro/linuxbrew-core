@@ -3,8 +3,8 @@ class Kamel < Formula
   homepage "https://camel.apache.org/"
 
   url "https://github.com/apache/camel-k.git",
-    :tag      => "0.3.4",
-    :revision => "c47fb2c85e89852f0fd111d1662f57917030ced5"
+    :tag      => "1.0.0",
+    :revision => "38c24698b16da41926be5f7984115d428a825a02"
   head "https://github.com/apache/camel-k.git"
 
   bottle do
